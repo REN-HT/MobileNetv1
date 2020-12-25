@@ -2,7 +2,6 @@
 import torch as t
 from torch import nn
 from torch.nn import functional as F
-from torch.autograd import Variable as V
 
 class DepthWiseNet(nn.Module):
     def __init__(self,inchannel,outchannel):
