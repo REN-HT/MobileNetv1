@@ -7,7 +7,7 @@ python3.7.6
 
 ## note
 you can use some brief codes to verify this model as follows:  
-*input size should be 224  
+*input size should be 224 * 224*
 ```
 model=MobileNet()  
 print(model)  
