@@ -1,5 +1,5 @@
-# MobileNet
-This is MobileNet Body Architecture
+# MobileNetv1
+This is MobileNetv1 Body Architecture
 
 ## prerequisite  
 windows10(64)  
